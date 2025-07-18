@@ -8,7 +8,7 @@
     <div class="card p-4 shadow" style="min-width: 350px;">
         <h2 class="text-center mb-4">Login</h2>
 
-        <form asp-action="Login" method="post">
+        <form asp-action="Index" method="post">
             <div class="form-group mb-3">
                 <label asp-for="Username" class="form-label"></label>
                 <input asp-for="Username" class="form-control" />
@@ -30,7 +30,7 @@
 
             <div class="text-center">
                 <span>Don't have an account?</span>
-                <a href="/Account/Register" class="btn btn-link p-0">Register</a>
+                <a href="/Auth/Register" class="btn btn-link p-0">Register</a>
             </div>
         </form>
     </div>

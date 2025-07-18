@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kamini Nikam\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB.csproj",
+      "projectUniqueName": "D:\\kamini Code\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB.csproj",
       "projectName": "Mini_Medical_Record_WEB",
-      "projectPath": "D:\\Kamini Nikam\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB.csproj",
+      "projectPath": "D:\\kamini Code\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Kamini Nikam\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\obj\\",
+      "outputPath": "D:\\kamini Code\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\Mini_Medical_Record_WEB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

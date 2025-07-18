@@ -1,0 +1,9 @@
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.GeneratedMSBuildEditorConfig.editorconfig
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.AssemblyInfoInputs.cache
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.AssemblyInfo.cs
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.csproj.CoreCompileInputs.cache
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.MvcApplicationPartsAssemblyInfo.cache
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.RazorAssemblyInfo.cache
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.RazorAssemblyInfo.cs
+D:\kamini Code\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\Mini_Medical_Record_WEB\obj\Debug\net8.0\Mini_Medical_Record_WEB.sourcelink.json

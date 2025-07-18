@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini_Medical_Record_WEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26cef1845a85465f66b148274fcb1ee75dfc39a2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ce1d808b2b31bbfc8adf9f08aa2bed6204de62b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini_Medical_Record_WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini_Medical_Record_WEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
